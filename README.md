@@ -23,9 +23,4 @@ To run this project, you'll need to install the following dependencies:
 
 Other dependencies can be installed using pip.
 
-## Installation
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/article-summarization-sentiment-analysis.git
